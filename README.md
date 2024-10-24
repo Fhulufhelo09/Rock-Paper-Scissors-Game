@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-A Rock-Paper-Scissors Game is a simple, fun game where two players choose between rock, paper, or scissors. The rules are:  Rock beats scissors. Scissors beats paper. Paper beats rock.
+I built a Rock-Paper-Scissors game using Python. In the game, the player chooses rock, paper, or scissors, and the computer randomly picks an option. The game then compares both choices and declares the winner based on the rules: rock beats scissors, scissors beats paper, and paper beats rock.
